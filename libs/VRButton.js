@@ -171,9 +171,9 @@ class VRButton{
         button.style.right = '0px';
         button.style.bottom = '0px';
         button.style.border = '';
-        button.style.opacity = '1';
+        button.style.opacity = '0';
         button.style.fontSize = '13px';
-        button.textContent = 'VR NOT SUPPORTED';
+        button.textContent = 'VR NOT SUPPORTED7';
         
         
 
