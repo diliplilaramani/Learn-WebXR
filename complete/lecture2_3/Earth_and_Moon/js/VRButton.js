@@ -147,7 +147,7 @@ var VRButton = {
 			if ( window.isSecureContext === false ) {
 
 				message.href = document.location.href.replace( /^http:/, 'https:' );
-				message.innerHTML = 'WEBXR NEEDS HTTPS'; // TODO Improve message
+				// message.innerHTML = 'WEBXR NEEDS HTTPS'; // TODO Improve message
 
 			} else {
 
